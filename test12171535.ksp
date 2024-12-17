@@ -1,0 +1,16 @@
+{
+	"appName":"test12171535",
+	"appCode":"test12171535",
+	"serverUrl":"http://192.168.40.1:54801",
+	"appInfo":{
+		"id":"36cca28eb9294f6fbe4084fd1ff39994",
+		"layout":"1",
+		"security":"http",
+		"selectModule":"kesplus_workflow"
+	},
+	"supportVersion":{
+		"createVersion":"v3.1.6",
+		"maxVersion":"v3.1.6",
+		"minVersion":"v3.1.6"
+	}
+}
